@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - prints a sentence followed by a new line 
+ * main - prints a sentence followed by a new line
  * Return: 0 if exited properly, otherwise flag error
  */
 int main(void)
