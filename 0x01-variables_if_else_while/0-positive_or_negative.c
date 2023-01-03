@@ -3,7 +3,8 @@
 #include <stdio.h>
 /**
  * main - Entry pont
- * Description - Prints if a random generated number is positive, negative or zero
+ * Description - Prints if a random generated number-
+ * -is positive, negative or zero
  * Return: Always 0 (Success)
  */
 int main(void)
