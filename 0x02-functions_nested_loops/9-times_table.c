@@ -1,4 +1,4 @@
-#include "main.h"
+#includ "main.h"
 /**
  * a function that prints the 9 times table, starting with 0
  * row = row, column = column, d = digits of current result
@@ -14,7 +14,7 @@ void times_table(void)
 		_putchar('0');
 		_putchar(',');
 		_putchar(' ');
-		for (column = 1; column <= 9; cone++)
+		for (column = 1; column <= 9; column++)
 		{
 			d = (row * column);
 			if ((d / 10) > 0)
