@@ -1,4 +1,4 @@
-#includ "main.h"
+#include "main.h"
 /**
  * a function that prints the 9 times table, starting with 0
  * row = row, column = column, d = digits of current result
