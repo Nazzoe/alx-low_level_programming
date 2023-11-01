@@ -48,4 +48,4 @@ char *argstostr(int ac, char **av)
 	ptr[count2] = '\0';
 	return (ptr);
 }
-`
+
