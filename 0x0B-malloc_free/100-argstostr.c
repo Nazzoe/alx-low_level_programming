@@ -23,6 +23,7 @@ char *argstostr(int ac, char **av)
 	}
 	size++;
 /**
+ * strDup:variable for saize allocation
  * allocate memory for total number of chars and
  * new line for each word
  **/
